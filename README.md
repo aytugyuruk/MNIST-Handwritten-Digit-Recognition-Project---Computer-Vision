@@ -1,13 +1,19 @@
 # MNIST El Yazısı Rakam Tanıma Projesi
 
-Girdi:
-<img src="input.png" alt="Input" width="300" height="200">
+<p align="center">Girdi:</p>
+<p align="center">
+  <img src="input.png" alt="Input" width="300" height="200">
+</p>
 
-İşlenmiş:
-<img src="processed.png" alt="Processed" width="300" height="200">
+<p align="center">İşlenmiş:</p>
+<p align="center">
+  <img src="processed.png" alt="Processed" width="300" height="200">
+</p>
 
-Tahmin:
-<img src="result.png" alt="Output" width="300" height="200">
+<p align="center">Tahmin:</p>
+<p align="center">
+  <img src="result.png" alt="Output" width="300" height="200">
+</p>
 
 Bu proje, MNIST veri seti kullanarak el yazısı rakamları (0-9) tanıyan bir makine öğrenmesi modeli geliştirmeyi amaçlamaktadır.
 
