@@ -6,7 +6,7 @@
 <img src="processed.png" alt="Processed" width="300" height="200">
 *İşlenmiş: HOG özellikleri + ham piksel verisi*
 
-<img src="output.png" alt="Output" width="300" height="200">
+<img src="result.png" alt="Output" width="300" height="200">
 *Tahmin: Modelin tahmin ettiği rakam*
 
 Bu proje, MNIST veri seti kullanarak el yazısı rakamları (0-9) tanıyan bir makine öğrenmesi modeli geliştirmeyi amaçlamaktadır.
