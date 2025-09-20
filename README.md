@@ -1,5 +1,14 @@
 # MNIST El Yazısı Rakam Tanıma Projesi
 
+![Input](input.png)
+*Girdi: Ham el yazısı rakam görüntüsü*
+
+![Processed](processed.png)
+*İşlenmiş: HOG özellikleri + ham piksel verisi*
+
+![Output](output.png)
+*Tahmin: Modelin tahmin ettiği rakam*
+
 Bu proje, MNIST veri seti kullanarak el yazısı rakamları (0-9) tanıyan bir makine öğrenmesi modeli geliştirmeyi amaçlamaktadır.
 
 ## Proje Açıklaması
